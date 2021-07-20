@@ -1,5 +1,6 @@
 #             Portfolio
 
+---
 ## Work Experience
 
 [Resume](/sample_page)
