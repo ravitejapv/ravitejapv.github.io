@@ -13,16 +13,14 @@
 ## ▪ Education
 
 ###  ▪ Post Graduate Certificate | 2021
-Data Analytics for Business Decision Making
-
-Durham College, Oshawa, Canada
+##### Data Analytics for Business Decision Making
+##### Durham College, Oshawa, Canada
 
 
 
 ### ▪ Bachelor of Science | 2013
-Mathematics, Computer Sciences, Electronics
-
-Osmania University, Hyderabad, India
+##### Mathematics, Computer Sciences, Electronics
+##### Osmania University, Hyderabad, India
 
 ---
 
