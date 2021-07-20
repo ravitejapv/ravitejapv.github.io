@@ -13,8 +13,8 @@
 ## ▪ Education
 
 ###  ▪ Post Graduate Certificate | 2021
-  ####   Data Analytics for Business Decision Making
-  ####   Durham College, Oshawa, Canada
+####   Data Analytics for Business Decision Making
+####   Durham College, Oshawa, Canada
 
 
 
