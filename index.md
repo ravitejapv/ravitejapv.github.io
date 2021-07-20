@@ -1,12 +1,28 @@
-## Portfolio
+# Portfolio
 
----
-
-### Work Experience
+## Work Experience
 
 [Resume](/sample_page)
 
 ---
+
+
+## Education
+
+## Post Graduate Certificate | Data Analytics for Business Decision Making | 2021
+### Durham College, Oshawa, Canada
+
+---
+
+### Bachelor of Science | 2013
+### Osmania University, Hyderabad, India
+
+---
+
+[Skills](/sample_page1)
+
+---
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
