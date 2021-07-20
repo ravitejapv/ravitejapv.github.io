@@ -1,8 +1,68 @@
-## This can be your internal website page / project page
+# Resume
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**About me**
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Software Development Specialist in Data Migration with an experience of working in the Telecom Domain. Skilled in Informatica Power Center, Developer, Oracle, Data Migration, Transformation Projects, ETL- DWH projects. Experienced in Telecom software development and quality teams in data/system migration projects in the BSS stack.
+
+## Software Development Specialist 
+### Amdocs, Toronto, Canada - June 2021 - Present
+
+
+
+
+## Software Development Specialist 
+### Amdocs, Toronto, Canada - June 2021 - Present
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+## Business Analyst 
+### Amdocs, Pune, India - July, 2018 - April, 2021
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+## Associate Consultant 
+### Virtusa Consulting, Hyderabad, India - June, 2016 - July 2018
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+## Jr. Software Engineer 
+### Tech Mahindra, Pune, India - Aug, 2013 - May, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
