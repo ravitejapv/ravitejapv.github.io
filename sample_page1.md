@@ -11,7 +11,7 @@
 
 **▪ Data Transformation**
 
-**▪ ▪ Exploratory Data Analysis and Mining**
+**▪ Exploratory Data Analysis and Mining**
 
 **▪ Oracle**
 
