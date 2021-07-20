@@ -35,6 +35,18 @@
 
 ▪ Internet Freedom
 
+---
+## ▪ Languages
+
+▪ English - Full Professional Proficiency
+
+▪ Telugu – Native or Bilingual Proficiency
+
+▪ Hindi - Full Professional Proficiency
+
+---
+
+
 [Project 2 Title](/pdf/ravitejapv_resume.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
