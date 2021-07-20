@@ -27,7 +27,7 @@
 
 ---
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/ravitejapv_resume.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
