@@ -15,6 +15,7 @@ Software Development Specialist in Data Migration with an experience of working 
 
 ```
 
+
 ## Business Analyst 
 ### Amdocs, Pune, India - July, 2018 - April, 2021
 
@@ -27,6 +28,7 @@ Software Development Specialist in Data Migration with an experience of working 
 •	Strong Informatica development experience working on Informatica Designer Components -Source Analyzer, Mapping Designer, Transformation Developer, Workflow Manager and Workflow Monitor.
 
 ```
+
 
 ## Associate Consultant 
 ### Virtusa Consulting, Hyderabad, India - June, 2016 - July 2018
@@ -49,6 +51,7 @@ Software Development Specialist in Data Migration with an experience of working 
 •	Lead daily scrum and weekly status meetings and conducting internal and external reviews as well as formal walk through among various teams and documenting the proceedings.
 
 ```
+
 
 ## Jr. Software Engineer 
 ### Tech Mahindra, Pune, India - Aug, 2013 - May, 2016
