@@ -22,7 +22,7 @@
 
 ## Skillset
 
-[Skills](/sample_page1)
+[Skills](/sample_page1.md)
 
 ---
 
