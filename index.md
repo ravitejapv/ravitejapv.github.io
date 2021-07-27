@@ -58,7 +58,7 @@ Osmania University, Hyderabad, India
 
 ### Individual Data Visualization Projects
 
-- [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA target="_blank")
+- [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA)
 <img src="images/aircraft.png"/>
 
 
