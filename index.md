@@ -61,6 +61,7 @@ Osmania University, Hyderabad, India
 
 - [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA)
 <img src="images/aircraft.png?raw=true"/>
+<img src="images/aircraft.png"/>
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
