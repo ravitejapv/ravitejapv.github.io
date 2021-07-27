@@ -52,18 +52,15 @@ Osmania University, Hyderabad, India
 ---
 
 
-[Download Full Resume](/pdf/ravitejapv_resume.pdf)
-
+[Download PDF Resume](/pdf/ravitejapv_resume.pdf)
 
 ---
 
 ### Individual Data Visualization Projects
 
-- [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA)
-<img src="images/aircraft.png?raw=true"/>
+- [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA target="_blank")
 <img src="images/aircraft.png"/>
-
-- [Project 2 Title](http://example.com/)
+- [Coffee Cup Data Analysis](/pdf/CoffeeCup.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
