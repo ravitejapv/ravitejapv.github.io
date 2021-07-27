@@ -52,14 +52,16 @@ Osmania University, Hyderabad, India
 ---
 
 
-[Project 2 Title](/pdf/ravitejapv_resume.pdf)
+[Download Full Resume](/pdf/ravitejapv_resume.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
-### Category Name 2
+### Individual Data Visualization Projects
 
-- [Project 1 Title](http://example.com/)
+- [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA)
+<img src="images/aircraft.png?raw=true"/>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
