@@ -60,5 +60,7 @@ Osmania University, Hyderabad, India
 
 - [Aircraft Birdstrikes/Wildlife Incidents in the US](https://youtu.be/25qFgbAm5iA target="_blank")
 <img src="images/aircraft.png"/>
+
+
 - [Coffee Cup Data Analysis](/pdf/CoffeeCup.pdf)
-<img src="images/Coffee.jpg"/>
+<img src="images/Coffee.png"/>
