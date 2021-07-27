@@ -33,7 +33,6 @@ Software Development Specialist in Data Migration with an experience of working 
 •	Strong Informatica development experience working on Informatica Designer Components -Source Analyzer, Mapping Designer, Transformation Developer, Workflow Manager and Workflow Monitor.
 
 
-
 ## Associate Consultant 
 ### Virtusa Consulting, Hyderabad, India - June, 2016 - July 2018
 
