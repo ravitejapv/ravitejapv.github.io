@@ -5,7 +5,7 @@
 
 Software Development Specialist in Data Migration with an experience of working in the Telecom Domain. Skilled in Informatica Power Center, Developer, Oracle, Data Migration, Transformation Projects, ETL- DWH projects. Experienced in Telecom software development and quality teams in data/system migration projects in the BSS stack.
 
-# [My Career Roadmap]
+# Career Roadmap
 
 <img src="images/Roadmap.jpeg"/>
 
