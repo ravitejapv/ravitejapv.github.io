@@ -7,7 +7,7 @@ Software Development Specialist in Data Migration with an experience of working 
 
 # Career Roadmap
 
-<img src="images/Roadmap.jpeg"/>
+[View my Career Roadmap](/Sample_page2.md)
 
 ---
 ## ▪ Work Experience
