@@ -2,7 +2,7 @@
 
 ### Road Map
 
-## [My Career Roadmap]
+## Career
 
 <img src="images/Roadmap.jpeg"/>
 
